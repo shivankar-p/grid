@@ -1,0 +1,20 @@
+ID of the edge to be made oneway: A1A2
+Traffic flow difference: 9
+Traffic flow direction: 1
+
+ID of the edge to be made oneway: C1C2
+Traffic flow difference: 9
+Traffic flow direction: 1
+
+ID of the edge to be made oneway: C2B2
+Traffic flow difference: 7
+Traffic flow direction: 0
+
+ID of the edge to be made oneway: D2C2
+Traffic flow difference: 7
+Traffic flow direction: 0
+
+ID of the edge to be made oneway: E3E4
+Traffic flow difference: 7
+Traffic flow direction: 0
+
